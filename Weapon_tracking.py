@@ -1,6 +1,6 @@
 #sudo modprobe bcm2835-v4l2
 
-nimport cv2
+import cv2
 import sys
 import time
 import RPi.GPIO as gpio
